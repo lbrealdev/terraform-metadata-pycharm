@@ -18,13 +18,23 @@ ferramenta HashiCorp Terraform. Com essa tool adicional é possivel fazer o PyCh
 
 ### Uso
 
-Para utilizar a ferramenta, acessamos o repositório [terraform-metadata](https://github.com/VladRassokhin/terraform-metadata) mantido pelo usuário [VladRassokhin](https://github.com/VladRassokhin) . Dentro do repositório, tem mais detalhes sobre a ferramenta e como ela funciona.
+Para utilizar a ferramenta, acessamos o repositório [terraform-metadata](https://github.com/VladRassokhin/terraform-metadata) mantido pelo usuário [VladRassokhin](https://github.com/VladRassokhin) .
 
-Temos que executar os seguintes comandos.
+Executamos os seguintes comandos.
 
 ```
 mkdir -p "$HOME/.terraform.d/metadata-repo"
+
+git clone "https://github.com/VladRassokhin/terraform-metadata" "$HOME/.terraform.d/metadata-repo"
 ```
+
+Para manter sempre atualizado realize um `git pull`
+
+# Configurando terraform-metadata PyCharm
+
+Depois de realizar um `git clone` devemos configurar o terroform path da seguinte maneira.
+
+![terraform_path](./images/terraform_path2.png)
 
 
  
