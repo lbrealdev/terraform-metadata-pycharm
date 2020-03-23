@@ -38,9 +38,9 @@ Depois de realizar um `git clone` devemos configurar o terraform path da seguint
 
 Feito isso o PyCharm é capaz de executar alguns comandos Terraform.
 
-- terraform fmt
-- terraform plan
-- terraform apply
+ * terraform fmt
+ * terraform plan
+ * terraform apply
 
 
  
