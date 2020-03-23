@@ -7,7 +7,7 @@ Quando instalamos o PyCharm IDE no ambiente Linux, temos a opção de instalar t
 Logo depois de instalar o plugin HCL temos realizar uma configuração em Settings -> Tools -> Terraform -> Terraform path, para que sejamos capazes de poder utilizar o Terraform pela propría IDE .
 
 ### Terraform path
-![terraform path](images/terraform_path.png)
+![terraform path](images/tf_path.png)
 
 No entanto temos um pequeno problema, quando vamos realizar a busca do binário Terraform dentro do nosso sistema operacional Linux, o PyCharm não consegue reconhecer o binário Terraform. O mesmo
 cenário no ambiente Windows já é diferente, porque podemos encontrar o terraform.exe facilmente e realizar a configuração corretamente sem muita dor de cabeça. Depois de passar algumas horas 
@@ -34,7 +34,7 @@ Para manter sempre atualizado realize um `git pull`
 
 Depois de realizar um `git clone` devemos configurar o terraform path da seguinte maneira.
 
-![terraform_path1](./images/terraform_metadata.png)
+![terraform_path1](images/tf_metadata.png)
 
 Feito isso o PyCharm é capaz de executar alguns comandos Terraform.
 
