@@ -34,7 +34,7 @@ Para manter sempre atualizado realize um `git pull`
 
 Depois de realizar um `git clone` devemos configurar o terroform path da seguinte maneira.
 
-![terraform_path1](./images/terraform_path2.png)
+![terraform_path1](./images/terraform_metadata.png)
 
 
  
