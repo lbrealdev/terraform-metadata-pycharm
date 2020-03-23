@@ -1,6 +1,6 @@
 # Terraform metadata for PyCharm IDE
 
-Este é um guia para ajudar a configurar a PyCharm IDE com plugin HCL 'Hashicorp Configuration Language' .
+Este é um guia para ajudar a configurar a PyCharm IDE com plugin `HCL Hashicorp Configuration Language` .
 
 Quando instalamos o PyCharm IDE no ambiente Linux, temos a opção de instalar também o plugin HCL, para que sejamos capaz de programar Terraform pelo PyCharm .
 
