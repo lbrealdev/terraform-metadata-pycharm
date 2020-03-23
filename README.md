@@ -4,7 +4,7 @@ Este é um guia para ajudar a configurar a PyCharm IDE com plugin `HCL 'Hashicor
 
 Quando instalamos o PyCharm IDE no ambiente Linux, temos a opção de instalar também o plugin HCL, para que sejamos capaz de programar Terraform pelo PyCharm .
 
-Logo depois de instalar o plugin HCL temos realizar uma configuração em Settings -> Tools -> Terraform -> Terraform path, para que sejamos capazes de poder utilizar o Terraform pela propría IDE .
+Logo depois de instalar o plugin HCL temos realizar uma configuração em Settings > Tools > Terraform > Terraform path, para que sejamos capazes de poder utilizar o Terraform pela propría IDE .
 
 ### Terraform path
 ![terraform path](images/tf_path.png)
