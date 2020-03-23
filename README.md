@@ -14,4 +14,4 @@ cenário no ambiente Windows já é diferente, porque podemos encontrar o terraf
 tentando resolver esse problema sem sucesso, resolvi começar a buscar sobre o mesmo para ver como podia resolver esse problema definitivamente e poder usar PyCharm junto com Terraform no ambiente Linux.
 
 Depois de realizar algumas buscas e ler sobre o assunto em alguns foruns encontrei uma solução relacionada. Metadata for HashiCorp Terraform é um repositório que contém alguns metadados para a 
-ferramenta HashiCorp Terraform. Com essa tool adicional é possivel fazer o PyCharm funcionar correctamente com o plugin HCL. Esses metadados são usados ​​para o [IntelliJ-Terraform plugin] (https://plugins.jetbrains.com/plugin/7808) .
+ferramenta HashiCorp Terraform. Com essa tool adicional é possivel fazer o PyCharm funcionar correctamente com o plugin HCL. Esses metadados são usados ​​para o [IntelliJ-Terraform plugin](https://plugins.jetbrains.com/plugin/7808) .
